@@ -16,7 +16,4 @@ Frequency=3914064 Hz, Resolution=255.4889 ns, Timer=TSC
 |    i++ | Core |    Core |        NA |        NA |        NA |
 |    i-- | Core |    Core |        NA |        NA |        NA |
 
-Benchmarks with issues:
-  UnaryOperators.i++: Core(Runtime=Core)
-  UnaryOperators.i--: Core(Runtime=Core)
- 
+
