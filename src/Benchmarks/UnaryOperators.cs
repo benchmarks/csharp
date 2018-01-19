@@ -19,6 +19,6 @@ namespace CSharp.Benchmarks
 
 
         [Benchmark(Description = "i--")]
-        public int UnaryDecrement() => _value++;
+        public int UnaryDecrement() => _value--;
     }
 }
